@@ -1,7 +1,5 @@
 
 
-**Optimization**
-
 The goal of optimization is to find parameters θ minimize a loss function L(θ).
 
 Taylor Series: [https://www.youtube.com/watch?v=5Iyah7Qd2Us](https://www.youtube.com/watch?v=5Iyah7Qd2Us)
